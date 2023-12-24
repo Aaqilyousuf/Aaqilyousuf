@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqilyousuf&label=Profile%20views&color=0e75b6&style=flat" alt="aaqilyousuf" /> </p>
 
-- 🔭 I’m currently working on **JavaScript Projects**
+- 🔭 I’m currently working on **ReactJs Projects**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
