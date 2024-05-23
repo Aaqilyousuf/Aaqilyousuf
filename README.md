@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Frontend**
-
 - 📫 How to reach me **aaqilyousuf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
