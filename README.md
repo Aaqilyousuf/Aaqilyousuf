@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaqil Yousuf</h1>
-<h3 align="center">A passionate FullStcak developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqilyousuf&label=Profile%20views&color=0e75b6&style=flat" alt="aaqilyousuf" /> </p>
 
