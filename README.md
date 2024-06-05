@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **aaqilyousuf@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/130MO6UcJ1iQkUwTZGCL8oaqVOrQp54kh/edit?usp=drive_link&ouid=101587643102021724884&rtpof=true&sd=true](https://docs.google.com/document/d/130MO6UcJ1iQkUwTZGCL8oaqVOrQp54kh/edit?usp=drive_link&ouid=101587643102021724884&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
