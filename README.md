@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaqilyousuf" alt="aaqilyousuf" /></a> </p>
 
-- 🌱 I’m currently learning **webRTC**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at [https://aaqilyousuf.vercel.app/](https://aaqilyousuf.vercel.app/)
 
