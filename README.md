@@ -48,12 +48,10 @@
 <br/>
 <hr/>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaqilyousuf&show_icons=true&locale=en&layout=compact" alt="aaqilyousuf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaqilyousuf&show_icons=true&locale=en" alt="aaqilyousuf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaqilyousuf&" alt="aaqilyousuf" /></p>
-
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Aaqilyousuf&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Aaqilyousuf&theme=midnight-purple&hide_border=false" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaqilyousuf&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+</div>
 [![An image of @aaqilyousuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaqilyousuf)](https://holopin.io/@aaqilyousuf)
