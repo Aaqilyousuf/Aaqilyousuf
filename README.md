@@ -16,7 +16,7 @@
 📫 How to reach me **aaqilyousuf@gmail.com**
 
 <br/>
-
+<hr/>
 <div align="center">
 
   <h2 align="center">Stay Connected</h2>
@@ -36,6 +36,7 @@
 </div>
 
 <br/>
+<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
