@@ -54,4 +54,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaqilyousuf&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
+<br/>
+<hr/>
 [![An image of @aaqilyousuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaqilyousuf)](https://holopin.io/@aaqilyousuf)
