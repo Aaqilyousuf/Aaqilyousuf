@@ -1,19 +1,19 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aaqil+Yousuf!;" />
 </h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate software developer from India IN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqilyousuf&label=Profile%20views&color=0e75b6&style=flat" alt="aaqilyousuf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaqilyousuf" alt="aaqilyousuf" /></a> </p>
 
-- 🌱 I’m currently learning **GenAI**
+🔭 I’m currently working on **NextJs Projects**
 
-- 👨‍💻 All of my projects are available at [https://aaqilyousuf.vercel.app/](https://aaqilyousuf.vercel.app/)
+🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **Node.js**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Aaqilyousuf/Aaqilyousuf/issues)**
 
-- 📫 How to reach me **aaqilyousuf@gmail.com**
+📫 How to reach me **aaqilyousuf@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
