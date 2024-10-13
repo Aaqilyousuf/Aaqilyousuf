@@ -15,8 +15,11 @@
 
 📫 How to reach me **aaqilyousuf@gmail.com**
 
+<br/>
 
-<div align="center"> 
+<div align="center">
+
+  <h2 align="center">Stay Connected</h2>
   <a href="mailto:aaqilyousuf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -26,7 +29,13 @@
   <a href="https://aaqilyousuf.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://www.instagram.com/aaqil_7/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+
 </div>
+
+<br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
