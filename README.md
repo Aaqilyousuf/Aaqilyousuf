@@ -57,5 +57,8 @@
 <br/>
 <hr/>
 
+![](https://leetcard.jacoblin.cool/Aaqil_Yousuf?ext=heatmap)
+<br/>
+<hr/>
 
 [![An image of @aaqilyousuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaqilyousuf)](https://holopin.io/@aaqilyousuf)
