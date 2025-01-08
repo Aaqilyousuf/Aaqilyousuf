@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning **GenAI**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Aaqilyousuf/Aaqilyousuf/issues)**
+👯 I’m looking to collaborate on **Open source projects**
 
 📫 How to reach me **aaqilyousuf@gmail.com**
 
