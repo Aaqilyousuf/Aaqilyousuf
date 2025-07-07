@@ -9,9 +9,9 @@
 
 🔭 I’m currently working on **Backend Technologies**
 
-🌱 I’m currently learning **GenAI**
+🌱 I’m currently exploring **GenAI**
 
-👯 I’m looking to collaborate on **Open source projects**
+👯 I’m looking to collaborate on **Any Projects**
 
 📫 How to reach me **aaqilyousuf@gmail.com**
 
