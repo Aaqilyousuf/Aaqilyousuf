@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaqilyousuf" alt="aaqilyousuf" /></a> </p>
 
-🔭 I’m currently working on **NextJs Projects**
+🔭 I’m currently working on **Backend Technologies**
 
 🌱 I’m currently learning **GenAI**
 
