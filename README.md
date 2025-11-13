@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaqilyousuf" alt="aaqilyousuf" /></a> </p>
 
-🔭 I’m currently working on **Backend Technologies**
+I’m a backend developer passionate about building scalable, reliable systems and developer tools. My primary focus is on Spring Boot, Node.js, and Django, with experience in designing REST APIs, microservices, and cloud-native applications.
 
-🌱 I’m currently exploring **GenAI**
+I actively contribute to open-source projects and enjoy creating tools that make development faster and cleaner. Lately, I’ve been exploring Generative AI and AI agents, integrating LLMs into backend architectures to build intelligent and context-aware applications.
 
-👯 I’m looking to collaborate on **Any Projects**
+Beyond backend development, I occasionally work with React for full-stack projects and explore machine learning as part of my academic research and curiosity.
 
-📫 How to reach me **aaqilyousuf@gmail.com**
+I’m currently focused on becoming a versatile backend engineer, combining strong fundamentals in system design, DevOps, and AI-driven development.
 
 <br/>
 <hr/>
