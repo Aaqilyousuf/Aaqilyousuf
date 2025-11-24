@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqilyousuf&label=Profile%20views&color=0e75b6&style=flat" alt="aaqilyousuf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaqilyousuf" alt="aaqilyousuf" /></a> </p>
-
 I’m a backend developer passionate about building scalable, reliable systems and developer tools. My primary focus is on Spring Boot, Node.js, and Django, with experience in designing REST APIs, microservices, and cloud-native applications.
 
 I actively contribute to open-source projects and enjoy creating tools that make development faster and cleaner. Lately, I’ve been exploring Generative AI and AI agents, integrating LLMs into backend architectures to build intelligent and context-aware applications.
