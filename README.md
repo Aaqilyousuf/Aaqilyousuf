@@ -5,12 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqilyousuf&label=Profile%20views&color=0e75b6&style=flat" alt="aaqilyousuf" /> </p>
 
-I’m a backend developer passionate about building scalable, reliable systems and developer tools. My primary focus is on Spring Boot, Node.js, and Django, with experience in designing REST APIs, microservices, and cloud-native applications.
-
+I'm a backend developer focused on building scalable and reliable systems. I work primarily with Node.js, Django, and Spring Boot, and I love working on core backend logic, database design, and performance tuning. I'm also learning cloud technologies and modern backend architecture patterns to level up my skills.
 I actively contribute to open-source projects and enjoy creating tools that make development faster and cleaner. Lately, I’ve been exploring Generative AI and AI agents, integrating LLMs into backend architectures to build intelligent and context-aware applications.
-
 Beyond backend development, I occasionally work with React for full-stack projects and explore machine learning as part of my academic research and curiosity.
-
 I’m currently focused on becoming a versatile backend engineer, combining strong fundamentals in system design, DevOps, and AI-driven development.
 
 <br/>
@@ -58,5 +55,3 @@ I’m currently focused on becoming a versatile backend engineer, combining stro
 ![](https://leetcard.jacoblin.cool/Aaqil_Yousuf?ext=heatmap)
 <br/>
 <hr/>
-
-[![An image of @aaqilyousuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaqilyousuf)](https://holopin.io/@aaqilyousuf)
